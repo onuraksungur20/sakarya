@@ -1,0 +1,3 @@
+﻿  Kaynak.cpp
+C:\Users\onur\Desktop\unreal projeler\c++\sakaryaodev\sakaryaodev\Kaynak.cpp(141,12): error C2086: 'double gecmeNotu': yeniden tanımlama
+C:\Users\onur\Desktop\unreal projeler\c++\sakaryaodev\sakaryaodev\Kaynak.cpp(55): message : 'gecmeNotu' bildirimine bakın
